@@ -1,14 +1,14 @@
 # School2016-2017 [![Telegram](https://img.shields.io/badge/Telegram-@iDoppioclick-blue.svg?style=flat)](https://t.me/iDoppioclick)
-Repo where I'll put all files of the 2016-2017 ICT's lessons.
+Repository where I'll put files of general works of all subjects.
 
 ### General Infos
-I will put the files divided in folders, renamed by the dates of the works.
+I will put the files divided in folders by the name of the subjects, containing a folder with the date of the works.
 Inside these folders there will be the files and a small .txt file, where I'll put textually what we've done.
 
 ### Repo clonation
 If (for some akward reasons) You want to clone the repo on your server, You just only have to do these commands:
 
-    $ git clone github.com/iDoppioclick/ICT-2016-2017.git
+    $ git clone github.com/iDoppioclick/School2016-2017.git
     $ cd ICT-2016-2017
 
 ### License
